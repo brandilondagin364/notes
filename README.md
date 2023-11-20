@@ -19,3 +19,6 @@ Let's GO
 Second, planning ahead is crucial. Before starting a project, think about the overall goal and break it down into smaller tasks. Create a plan with deadlines and milestones to keep yourself on track. Planning ahead will also help prevent last-minute panic and stress. 
  <p>
 Lastly, staying organized is essential. Use tools like task managers, calendars, or even post-it notes to stay on top of your workload. Organizing will not only help with efficiency but also with your mental health. When you know where everything is, it'll be easier to focus and make better decisions.
+
+# 2023-11-20
+- "Keep it simple, stupid!"
