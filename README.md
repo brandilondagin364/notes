@@ -33,3 +33,10 @@ Remember to stay flexible and adapt to changes in the project. You may need to r
 
 To be successful in the programming field, you must also have a strong foundation in core concepts such as data structures, algorithms, and computer science principles. These concepts will serve as the foundation for your knowledge, allowing you to build upon them as you continue to learn and grow. 
  - 来自NLP
+
+# 2023-11-23
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you are working on a project, there will always be multiple things that need to get done. By prioritizing your task list, you can make sure that you focus on the most important tasks first. You can use various techniques, such as the MoSCoW method (Must have, Should have and Could have), to categorize your goals. Doing so will ensure that your time is well-spent and that the critical aspects of your project are completed. 
+ 其次，提前计划。在开始一个项目之前，确保你了解所有需要完成的任务。创建一个详细的计划，包括任务分解、估计完成时间和资源分配。这将帮助你在项目进行过程中保持专注，并确保你不会错过任何重要的截止日期。 最重要的是，保持组织。使用版本控制系统（如Git）来管理你的代码，使用任务管理工具（如同理心和Trello）跟踪你的进度。保持你的工作区整洁，定期备份你的数据。这些习惯将帮助你更有效地工作，减少错误，并在需要时更容易找到信息。
+总之，今天的智慧是优先处理任务，提前做好计划并保持组织，这将帮助你更高效地编程。
