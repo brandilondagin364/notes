@@ -68,3 +68,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while also acknowledging the unpredictable nature of users and the potential for unexpected errors or misuse. It serves as a reminder to always consider the end-user and anticipate potential issues in order to create more effective and reliable programs.
+
+# 2023-11-30
+- "Keep it simple, stupid!"
