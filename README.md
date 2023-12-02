@@ -77,3 +77,6 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 
 Second, always plan your day or week ahead of time. Write down your goals and tasks for the day, then break them down into smaller, manageable steps. At the end of the week, review your progress and adjust your plan as needed. Planning ahead will ensure you have enough time to complete each task and avoid last-minute panic. 
  .Finally, stay organize by using tools and techniques that help keep your code, project,and work area clean and tidy.This can include using version control systems, organizing your files and code into logical groups, using code formatting and naming conventions, as well as using debugging and logging tools to help identify and fix issues.By staying organized,you can find and fixed issues more quickly, making yourcode more reliable and efficient.
+
+# 2023-12-02
+- "Keep it simple, stupid!"
