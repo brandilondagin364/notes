@@ -80,3 +80,6 @@ Second, always plan your day or week ahead of time. Write down your goals and ta
 
 # 2023-12-02
 - "Keep it simple, stupid!"
+
+# 2023-12-03
+- "Keep it simple, stupid!"
