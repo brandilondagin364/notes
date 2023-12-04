@@ -83,3 +83,9 @@ Second, always plan your day or week ahead of time. Write down your goals and ta
 
 # 2023-12-03
 - "Keep it simple, stupid!"
+
+# 2023-12-04
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This will not only make you a more valuable employee but also help you become a better problem-solver and collaborator.
+
+One of the most important aspects of programming is problem solving. When faced with a challenging problem, take a step back and analyze the issue from different angles. Break down the problem into smaller, more manageable tasks, and use logic and creativity to come up with solutions. Practice debugging and testing your code, as this will help identify and fix errors more efficiently. 
+ - 来自ChatGPT
