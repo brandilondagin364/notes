@@ -89,3 +89,14 @@ Second, always plan your day or week ahead of time. Write down your goals and ta
 
 One of the most important aspects of programming is problem solving. When faced with a challenging problem, take a step back and analyze the issue from different angles. Break down the problem into smaller, more manageable tasks, and use logic and creativity to come up with solutions. Practice debugging and testing your code, as this will help identify and fix errors more efficiently. 
  - 来自ChatGPT
+
+# 2023-12-05
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Continuously learn new programming skills and languages: Keep your skills fresh by learning new languages, frameworks, and libraries. This will help make you a more versatile and valuable developer.
+2. Practice problem-solving: Become proficient at identifying and solving problems by practicing coding challenges and exercises. Sites like LeetCode and HackerRank offer great resources for improving your problem solving skills. 
+3. Understand the basics: Before diving into new frameworks or languages , make sure you have a solid understanding of the basic concepts in programming.This will give you an easier time adapting and learning newer technologies.  
+4. Attend workshops and conferences: By attending workshops, conferences,and meetups, you' ll be exposed to industry experts and other developers who can share their knowledge and experiences. These events can provide valuable insights and connections to grow your career.   
+5. Collaborate with others: Building a network of fellow developers can help improve your knowledge, skills,  and job opportunities. Share your experiences and learn from others by collaborating on projects and discussions.    
+6. Stay organized and disciplined: Maintaining a routine and organizing your work can improve productivity and reduce stress. Set goals and deadlines to keep yourself accountable and motivated.     
+7. Document your code and knowledge: Writing blog posts, documentation, or even simple notes can greatly benefit your learning process. By documenting your progress,you'll have an easy way to review and refer back to your previous knowledge.
