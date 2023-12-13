@@ -143,3 +143,8 @@ Focus on writing clean, readable, and maintainable code first. Optimization shou
 4. Ask for feedback: Seek feedback from peers, mentors,or even random people on your code. It will help identify areas for improvement and give you a better understanding of how others view your work.   
 5. Be open-minded: Try new things and don' t be afraid to make mistakes. Embrace the learning process and use each mistake as an opportunity to grow and improve.    
 6. Stay organized: Keep your projects, codebase, notes, etc. well-organized and documented.This will make it easier to find and fix any issues that may arise and also make your coding process more efficient.
+
+# 2023-12-13
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and potentially introduce bugs. It's often better to write clear, simple code first and optimize only when necessary, based on profiling and performance measurements.
