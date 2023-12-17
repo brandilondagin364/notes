@@ -163,3 +163,8 @@ This quote reminds us that optimizing code too early in the development process 
 1. Prioritize tasks: When you are working on a project, make sure to list all the tasks that need to get done. Then, prioritize them based on their importance and urgency. By doing this, you can make better use of your time and ensure that the most critical tasks are completed first.
 2. Plan ahead: Always try to anticipate what might come up in the future and plan for it. For example, if you know you will need a new feature in a few months, start working towards it now. That way, when the time comes, everything will be in place and you won't have to scramble to finish it on time. 
 3. Stay organized: Use tools like task managers, calendars, or even simple notebooks to keep track of all your tasks and deadlines. Making sure everything is in order will save you time in searching for information and help prevent mistakes. Additionally, organizing your workspace can help reduce stress and improve your focus.
+
+# 2023-12-17
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to complex and hard-to-maintain code. It's better to write clear, simple code first and optimize only when needed.
