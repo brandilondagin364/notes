@@ -209,3 +209,6 @@ Optimizing code before it's necessary can lead to complex and hard-to-maintain c
 5. Set deadlines: For each task, set a deadline by which time you want to have it completed by. Using deadlines can give your to-do list more structure and ensure you remain focused on your goals.    
 6. Stay organized: Keep your workspace clean and clutter-free to reduce distractions and improve your productivity.Organization can also help with collaboration, as it'll be easy to find and share files and information with team members.     
 7. Learn from your mistakes: As you work through your projects, learn from the mistakes you make and apply those lessons to future endeavors. Reflecting on past experiences can lead to improved decision-making and better problem-solving skills.
+
+# 2023-12-29
+- "Keep it simple, stupid!"
