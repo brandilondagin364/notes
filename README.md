@@ -356,3 +356,6 @@ To be successful in the programming field, you should also have a deep understan
 4. Code regularly: Even if it’ s just for 30 minutes a day, consistently practicing coding will improve both your technical skills as well as your mental muscle for problem solving.   
 5. Collaborate with others: Reach out to other developers and join open-source projects or coding communities. Working with other programmers can expand your knowledge, improve communication skills, learn new techniques, aswell as build your network.    
 6. Never stop learning: Programming is a constantly evolving field, so it is essential to keep up with new programming techniques and languages to maintain your edge. Consider taking online courses, reading books, attending workshops,and more.
+
+# 2024-01-27
+- "Keep it simple, stupid!"
