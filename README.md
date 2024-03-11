@@ -558,3 +558,8 @@ In more detail but still concise: Always strive to understand the problem domain
 
 # 2024-03-10
 - "Keep it simple, stupid!"
+
+# 2024-03-11
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first and optimize only when necessary, based on data-driven insights from profiling and performance testing." 
+
+In other words, don't waste time trying to make sections of your code more efficient before they are proven bottlenecks. Write good quality code that fulfills requirements and is easy to understand; optimization should come later, backed by concrete evidence of where improvements will have the most significant impact.
